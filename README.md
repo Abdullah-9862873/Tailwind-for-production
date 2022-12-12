@@ -44,3 +44,7 @@ npx tailwindcss init -p
 ```
 npm run start
 ```
+**Step 9:** Using it to deploy tailwind css file in production, go to the "package.json" and type the following under the "start: vite"\
+```
+"build": "vite build"
+```
